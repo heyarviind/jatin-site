@@ -2317,10 +2317,14 @@ figcaption {
   width: 150px;
 }
 
+.button .m-regular {
+  font-weight: 800 !important;
+}
+
 .text.m-regular {
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   color: #0e0f11;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5em;
   font-weight: 400;
 }
@@ -2413,7 +2417,7 @@ figcaption {
   color: #fff;
   font-size: 18px;
   line-height: 28px;
-  font-weight: bolder !important;
+  font-weight: 900 !important;
   text-decoration: none;
 
 }
